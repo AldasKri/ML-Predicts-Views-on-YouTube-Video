@@ -9,4 +9,4 @@ I trained and compared:
 
 The accuracy of the methods is measured using mean absolute error. Among all of the methods tested, Random Forest was able to predict the view count with the greatest accuracy.  
 
-I am working on making a stock market predictor next. 
+I am working on making a stock market predictor next. (Update: I finished it! Check it out in my repositories)
