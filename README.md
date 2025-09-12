@@ -10,3 +10,7 @@ I trained and compared:
 The accuracy of the methods is measured using mean absolute error. Among all of the methods tested, Random Forest was able to predict the view count with the greatest accuracy.  
 
 I am working on making a stock market predictor next. (Update: I finished it! Check it out in my repositories)
+
+**Note:** The dataset is from
+[Tesla Stock Data](https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020)
+and is subject to the original Kaggle terms of use; it is **not** covered by this repository’s license.
